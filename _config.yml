@@ -1,5 +1,5 @@
 title: Ian Andeson's Github.io Page
 description: A personal Github page that will be filled out in the future.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
